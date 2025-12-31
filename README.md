@@ -1,1 +1,1 @@
-# Creating-a-Jenkins-CI-CD-Pipeline
+# Creating a Jenkins CI/CD Pipeline
