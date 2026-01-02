@@ -46,3 +46,4 @@ Building and Confirming results in Console Output. Nearly the same as during the
 # Building our first CI project
 
 Note: I am using a forked Jenkins project created by Valentin Despa to build off of.
+https://github.com/JacobDKing/jenkins-app
